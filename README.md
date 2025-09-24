@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Anish Tiwari  
 
-<!--
-**AnishTiwari5077/AnishTiwari5077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Flutter Developer**   
+🎓 Google UX Design Certified | 3x Udemy Certified  
+📱 Passionate about building intuitive and user-friendly mobile apps  
+🌱 Exploring Firebase, MySQL & AI-powered tools  
+🤝 Open to collaboration and continuous learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me    
+ - 📚 Completed 3 professional Udemy courses on Flutter & Dart
+ - 🎓 Google UX Design Certificate graduate (Coursera)  
+- 💡 Love combining **design + development** to create seamless digital experiences  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages & Frameworks:** Flutter, Dart,  
+- **Backend & Databases:** Firebase, MySQL  
+- **Design Tools:** Figma,   
+- **Other Tools:** Git, GitHub, REST APIs  
+
+---
+
+## 📚 Certifications & Courses  
+- Google UX Design Certificate – Coursera  
+- Flutter & Dart – The Complete Guide [2024 Edition] – Udemy (Instructor: Maximilian Schwarzmüller)  
+- Dart & Flutter – Zero to Mastery [2025] + Clean Architecture – Udemy  
+- The Complete Dart Language Guide for Beginners and Beyond – Udemy()  
+
+---
+
+## 📂 Featured Projects  
+- 🛒 **E-Commerce App** – Full-featured shopping app with cart & payment flow  
+- 🚴 **Bike App** – Ride booking & management system  
+- 📚 **Smart Attendance System** – Voice-based attendance tracking (Flutter + AI)  
+- 📊 **Employee Management System** – Python + MySQL desktop app  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 🐦 [Twitter](https://twitter.com/)  
+- 🌐 Portfolio Website (coming soon)  
+
+---
+⭐️ From [Sugam Tiwari](https://github.com/yourusername)
