@@ -27,7 +27,7 @@
 - Google UX Design Certificate – Coursera  
 - Flutter & Dart – The Complete Guide [2024 Edition] – Udemy (Instructor: Maximilian Schwarzmüller)  
 - Dart & Flutter – Zero to Mastery [2025] + Clean Architecture – Udemy  
-- The Complete Dart Language Guide for Beginners and Beyond – Udemy()  
+- The Complete Dart Language Guide for Beginners and Beyond – Udemy  
 
 ---
 
@@ -45,4 +45,4 @@
 - 🌐 Portfolio Website (coming soon)  
 
 ---
-⭐️ From [Sugam Tiwari](https://github.com/yourusername)
+⭐️ From [Anish Tiwari](https://github.com/AnishTiwari5077)
