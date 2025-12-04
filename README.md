@@ -29,13 +29,9 @@
 - Dart & Flutter – Zero to Mastery [2025] + Clean Architecture – Udemy  
 - The Complete Dart Language Guide for Beginners and Beyond – Udemy  
 
----
 
-## 📂 Featured Projects  
-- 🛒 **E-Commerce App** – Full-featured shopping app with cart & payment flow  
-- 🚴 **Bike App** – Ride booking & management system  
-- 📚 **Smart Attendance System** – Voice-based attendance tracking (Flutter + AI)  
-- 📊 **Employee Management System** – Python + MySQL desktop app  
+
+
 
 ---
 
