@@ -31,14 +31,8 @@
 
 
 
-
-
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 🌐 Portfolio Website (coming soon)  
 
 ---
 ⭐️ From [Anish Tiwari](https://github.com/AnishTiwari5077)
