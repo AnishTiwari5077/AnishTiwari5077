@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Anish Tiwari 👋</h1>
+
 <p align="center">
   <b>Full-Stack Flutter Developer</b> · Nepal 🇳🇵
   <br/>
   Building production-grade mobile apps with clean architecture, 
   real payment integrations, and backend APIs
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anish-t-50a860306/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,12 +19,15 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=AnishTiwari5077&style=for-the-badge&color=blueviolet"/>
 </p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 💳 E-Wallet App
 > Flutter · Python/Flask · MySQL · Stripe · Biometric Auth
 
-A production-grade digital wallet with real Stripe card deposits, P2P money 
+A production-grade digital wallet with real Stripe card deposits, P2P money
 transfer, bank transfers, mobile topup, bill payments, and college fee payments.
 
 **Key engineering highlights:**
@@ -30,7 +35,7 @@ transfer, bank transfers, mobile topup, bill payments, and college fee payments.
 - Biometric (fingerprint/face) + PIN authentication for every transaction
 - MVVM Clean Architecture with strict layer separation
 - PDF receipt generation with download and share
-- Stripe PaymentIntent with intent.id logged for reconciliation
+- Stripe PaymentIntent with intent.id logged for full reconciliation
 
 ---
 
@@ -39,7 +44,7 @@ transfer, bank transfers, mobile topup, bill payments, and college fee payments.
 
 Real-time chat application with voice/video calling using ZegoUIKit.
 
-**Features:** Real-time messaging · Video/voice calls (Zego Cloud) · 
+**Features:** Real-time messaging · Video/voice calls (Zego Cloud) ·
 Firebase Auth · FCM push notifications · Riverpod state management
 
 ---
@@ -47,10 +52,10 @@ Firebase Auth · FCM push notifications · Riverpod state management
 ### 🛒 Bike Shop — E-Commerce App
 > Flutter · MVVM · Provider · GoRouter · Node.js · MongoDB · Stripe · FCM
 
-Full e-commerce mobile app with product catalog, cart, Stripe checkout, 
+Full e-commerce mobile app with product catalog, cart, Stripe checkout,
 and Firebase push notifications.
 
-**Features:** GoRouter navigation · Stripe payments · 
+**Features:** GoRouter navigation · Stripe payments ·
 Adaptive UI layouts · FCM notifications · MongoDB backend
 
 ---
@@ -58,7 +63,7 @@ Adaptive UI layouts · FCM notifications · MongoDB backend
 ### 📊 Purwanchal Research Hub
 > Flutter · Firebase · Published on Google Play Store
 
-[![Play Store](https://play.google.com/store/apps/details?id=com.purwanchal.researchhub&pcampaignid=web_share)](YOUR_PLAY_STORE_LINK)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.purwanchal.researchhub&pcampaignid=web_share)
 
 Research aggregation app published on the Google Play Store.
 
@@ -124,5 +129,5 @@ Research aggregation app published on the Google Play Store.
 <p align="center">
   <i>Open to freelance Flutter projects — full-stack mobile development</i>
   <br/>
-  <b>anish@example.com</b>
+  📧 <b>anishtiwari507@gmail.com</b>
 </p>
