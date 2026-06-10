@@ -1,24 +1,22 @@
 <h1 align="center">Hi, I'm Anish Tiwari 👋</h1>
-
 <p align="center">
   <b>Full-Stack Flutter Developer</b> · Nepal 🇳🇵
   <br/>
   Building production-grade mobile apps with clean architecture, 
   real payment integrations, and backend APIs
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/anish-t-50a860306/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK">
+  <a href="https://www.upwork.com/freelancers/~015a51e0b1e1e01b05?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="mailto:anishtiwari507@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=AnishTiwari5077&style=for-the-badge&color=blueviolet"/>
 </p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 💳 E-Wallet App
