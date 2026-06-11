@@ -63,7 +63,7 @@ Adaptive UI layouts · FCM notifications · MongoDB backend
 ### 📊 Purwanchal Research Hub
 > Flutter · Firebase · Published on Google Play Store
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.purwanchal.researchhub&pcampaignid=web_share)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.purwanchal.researchhub)
 
 Research aggregation app published on the Google Play Store.
 
